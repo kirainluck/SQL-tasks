@@ -44,7 +44,7 @@
 
 11. [Дерево клиентов. Lateral последовательностей](https://github.com/kirainluck/SQL-tasks/wiki/Дерево-клиентов-lateral-последовательностей)
 
-12. Оконные функции
+12. [Оконныйе функции](https://github.com/kirainluck/SQL-tasks/wiki/Оконные-функции)
 
 13. Прогноз через Python
 
