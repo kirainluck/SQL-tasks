@@ -36,7 +36,7 @@
 
 7. [Прогноз продаж](https://github.com/kirainluck/SQL-tasks/wiki/Прогноз-продаж) через хранимую процедуру
 
-8. Триггер
+8. [Триггер](https://github.com/kirainluck/SQL-tasks/wiki/Триггер)
 
 9. Контрольная на создание последовательности
 
