@@ -52,4 +52,4 @@
 
 15. [Заполнение OLAP базы](./15).
 
-16. [Создать MOLAP icCube и написать MDX](./16)
+16. [Создать MOLAP icCube и написать MDX](https://github.com/kirainluck/SQL-tasks/wiki/ICCube)
